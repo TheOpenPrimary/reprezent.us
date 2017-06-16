@@ -383,8 +383,9 @@ header .intro-text .intro-heading {
     }
     header .intro-text .intro-heading {
         margin-bottom: 20px;
+        margin-top:20px;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 55px;
+        font-size: 35px;
         font-weight: 700;
         line-height: 55px;
     }
@@ -507,17 +508,4 @@ body {
 	webkit-tap-highlight-color: #fed136;
 }
 
-#stamp-legislatives {
-    position: absolute;
-    float:left;
-    left:-20px;
-    top:-20px;
-    font-weight: bold;
-    color:#d91d1c;
-    font-size:36px;
-    -webkit-transform: rotate(-15deg);
-    -moz-transform: rotate(-15deg);
-    -ms-transform: rotate(-15deg);
-    -o-transform: rotate(-15deg);
-    transform: rotate(-15deg);
-}
+

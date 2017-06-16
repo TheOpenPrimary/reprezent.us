@@ -1,1 +1,1 @@
-rsync -avz web/ root@democratech-bot:/home/laprimaire/legislatives.laprimaire.org/
+rsync -avz web/ root@democratech-bot:/home/laprimaire/reprezent.us/
